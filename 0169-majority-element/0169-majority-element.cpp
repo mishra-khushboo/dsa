@@ -19,18 +19,34 @@ public:
 
         //sort O(nlogn)
 
-        sort(nums.begin(),nums.end());
-        int freq = 1; 
-        int ans = nums[0];
-        for(int i = 1; i < n; i++){
-            if(nums[i] == nums[i - 1]){
-                freq++;
-            }else{
-                freq = 1;
+        // sort(nums.begin(),nums.end());
+        // int freq = 1; 
+        // int ans = nums[0];
+        // for(int i = 1; i < n; i++){
+        //     if(nums[i] == nums[i - 1]){
+        //         freq++;
+        //     }else{
+        //         freq = 1;
+        //         ans = nums[i];
+        //     }
+        //     if(freq > n/2){
+        //         return ans;
+        //     }
+        // }
+        // return ans;
+
+        //moore's algo
+
+        int ans = 0;
+        int freq = 0;
+        for(int i =0;i< n;i++){
+            if(freq == 0){
                 ans = nums[i];
             }
-            if(freq > n/2){
-                return ans;
+            if(ans == nums[i]){
+                freq++;
+            }else{
+                freq--;
             }
         }
         return ans;
