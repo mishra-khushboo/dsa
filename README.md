@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishra-khushboo/dsa/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mishra-khushboo/dsa/tree/master/0169-majority-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mishra-khushboo/dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
