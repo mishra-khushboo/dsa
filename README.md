@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishra-khushboo/dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mishra-khushboo/dsa/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mishra-khushboo/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
