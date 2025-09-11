@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mishra-khushboo/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
