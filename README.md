@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mishra-khushboo/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
@@ -115,8 +116,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishra-khushboo/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishra-khushboo/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
