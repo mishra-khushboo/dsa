@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mishra-khushboo/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mishra-khushboo/dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mishra-khushboo/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mishra-khushboo/dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mishra-khushboo/dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/mishra-khushboo/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mishra-khushboo/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mishra-khushboo/dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mishra-khushboo/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mishra-khushboo/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mishra-khushboo/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishra-khushboo/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
