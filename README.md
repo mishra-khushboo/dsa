@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mishra-khushboo/dsa/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mishra-khushboo/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mishra-khushboo/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mishra-khushboo/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
