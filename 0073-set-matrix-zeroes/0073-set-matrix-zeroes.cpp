@@ -1,54 +1,7 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
-        int x = 1;
-        int y = 1;
-
-        for(int i = 0; i < n ;i++){
-            if(mat[0][i] == 0){
-                x =0;
-            }
-        }
-        for(int j = 0; j < m;j++){
-            if(mat[j][0] == 0){
-                y = 0;
-            }
-        }
-        for(int i = 1;i< m;i++){
-            for(int j = 1; j < n ;j++){
-                if(mat[i][j] == 0){
-                    mat[i][0] = 0;
-                    mat[0][j] = 0;
-                }
-            }
-        }
-        for(int i = 1;i<n;i++){
-            if(mat[0][i] == 0){
-                for(int j = 1;j<m;j++){
-                    mat[j][i] =0;
-                }
-            }
-        }
-        for(int j = 1;j<m;j++){
-            if(mat[j][0] == 0){
-                for(int i = 1;i<n;i++){
-                    mat[j][i] =0;
-                }
-            }
-        }
-        if(x == 0){
-            for(int i = 0;i<n;i++){
-                mat[0][i] = 0;
-            }
-        }
-        if(y == 0){
-            for(int j = 0;j<m;j++){
-                mat[j][0] = 0;
-            }
-        }
-        //  unordered_set<int> rows, cols;
+         //  unordered_set<int> rows, cols;
 
         // for( int i =0; i < m; i++){
         //     for(int j = 0;j<n;j++){
@@ -65,5 +18,60 @@ public:
         //         }
         //     }
         // }
+       int m = mat.size();
+        int n = mat[0].size();
+        int firstRowZero = 1, firstColZero = 1;
+
+        // Check if first row has any zero
+        for (int j = 0; j < n; j++) {
+            if (mat[0][j] == 0) firstRowZero = 0;
+        }
+
+        // Check if first column has any zero
+        for (int i = 0; i < m; i++) {
+            if (mat[i][0] == 0) firstColZero = 0;
+        }
+
+        // Use first row & column as markers
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                if (mat[i][j] == 0) {
+                    mat[i][0] = 0;
+                    mat[0][j] = 0;
+                }
+            }
+        }
+
+        // Set zeros based on column markers
+        for (int j = 1; j < n; j++) {
+            if (mat[0][j] == 0) {
+                for (int i = 1; i < m; i++) {
+                    mat[i][j] = 0;
+                }
+            }
+        }
+
+        // Set zeros based on row markers
+        for (int i = 1; i < m; i++) {
+            if (mat[i][0] == 0) {
+                for (int j = 1; j < n; j++) {
+                    mat[i][j] = 0;
+                }
+            }
+        }
+
+        // Handle first row
+        if (firstRowZero == 0) {
+            for (int j = 0; j < n; j++) {
+                mat[0][j] = 0;
+            }
+        }
+
+        // Handle first column
+        if (firstColZero == 0) {
+            for (int i = 0; i < m; i++) {
+                mat[i][0] = 0;
+            }
+        }
     }
 };
