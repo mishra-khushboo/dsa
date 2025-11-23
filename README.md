@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/mishra-khushboo/dsa/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mishra-khushboo/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mishra-khushboo/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mishra-khushboo/dsa/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
