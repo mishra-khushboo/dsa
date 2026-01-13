@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishra-khushboo/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mishra-khushboo/dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mishra-khushboo/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mishra-khushboo/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mishra-khushboo/dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mishra-khushboo/dsa/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mishra-khushboo/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mishra-khushboo/dsa/tree/master/0075-sort-colors) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mishra-khushboo/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
