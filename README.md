@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mishra-khushboo/dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mishra-khushboo/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mishra-khushboo/dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mishra-khushboo/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mishra-khushboo/dsa/tree/master/0053-maximum-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mishra-khushboo/dsa/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0540-single-element-in-a-sorted-array) |
