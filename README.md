@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mishra-khushboo/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mishra-khushboo/dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mishra-khushboo/dsa/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishra-khushboo/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mishra-khushboo/dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishra-khushboo/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
