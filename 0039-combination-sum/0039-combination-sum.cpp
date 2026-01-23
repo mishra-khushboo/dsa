@@ -11,12 +11,11 @@ public:
         if (target < 0 || idx == arr.size())
             return;
 
-        // pick current element (multiple allowed)
+       
         comb.push_back(arr[idx]);
         solve(idx, target - arr[idx], arr, comb);
         comb.pop_back();
 
-        // move to next element
         solve(idx + 1, target, arr, comb);
     }
 
