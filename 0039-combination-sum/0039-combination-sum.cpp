@@ -1,34 +1,28 @@
 class Solution {
 public:
-    set<vector<int>> s;
-    void getAllCombinations(vector<int>& arr, int idx, int tar,vector<vector<int>> &ans, vector<int> &combin){
-        if(idx == arr.size() || tar < 0)
-            return ;
+    vector<vector<int>> ans;
 
-        if(tar == 0){
-            if(s.find(combin) == s.end()){
-                ans.push_back(combin);
-                s.insert(combin);
-            }
-            
+    void solve(int idx, int target, vector<int>& arr, vector<int>& comb) {
+        if (target == 0) {
+            ans.push_back(comb);
             return;
-        }    
+        }
 
-        combin.push_back(arr[idx]);
-        //single
-        getAllCombinations(arr,idx + 1,tar - arr[idx],ans,combin);
-        //multiple
-         getAllCombinations(arr,idx,tar - arr[idx],ans,combin);
+        if (target < 0 || idx == arr.size())
+            return;
 
-        combin.pop_back();
-         //exclusion
-          getAllCombinations(arr,idx + 1,tar,ans,combin);
+        // pick current element (multiple allowed)
+        comb.push_back(arr[idx]);
+        solve(idx, target - arr[idx], arr, comb);
+        comb.pop_back();
+
+        // move to next element
+        solve(idx + 1, target, arr, comb);
     }
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
-        vector<vector<int>> ans;
-        vector<int> combin;
-        getAllCombinations(arr, 0, target,ans,combin);
-        return ans;
 
+    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+        vector<int> comb;
+        solve(0, target, arr, comb);
+        return ans;
     }
 };
