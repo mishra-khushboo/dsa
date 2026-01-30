@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mishra-khushboo/dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mishra-khushboo/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishra-khushboo/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
+| [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mishra-khushboo/dsa/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
