@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mishra-khushboo/dsa/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mishra-khushboo/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/mishra-khushboo/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishra-khushboo/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishra-khushboo/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mishra-khushboo/dsa/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/mishra-khushboo/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mishra-khushboo/dsa/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mishra-khushboo/dsa/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/mishra-khushboo/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
