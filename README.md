@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mishra-khushboo/dsa/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mishra-khushboo/dsa/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mishra-khushboo/dsa/tree/master/1078-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/mishra-khushboo/dsa/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mishra-khushboo/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mishra-khushboo/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/mishra-khushboo/dsa/tree/master/1392-longest-happy-prefix) |
 ## Memoization
 |  |
 | ------- |
@@ -271,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mishra-khushboo/dsa/tree/master/0912-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/mishra-khushboo/dsa/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/mishra-khushboo/dsa/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
