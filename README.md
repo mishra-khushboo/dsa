@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mishra-khushboo/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mishra-khushboo/dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mishra-khushboo/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mishra-khushboo/dsa/tree/master/0090-subsets-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mishra-khushboo/dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mishra-khushboo/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mishra-khushboo/dsa/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mishra-khushboo/dsa/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mishra-khushboo/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mishra-khushboo/dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mishra-khushboo/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -218,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mishra-khushboo/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mishra-khushboo/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/mishra-khushboo/dsa/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mishra-khushboo/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/mishra-khushboo/dsa/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mishra-khushboo/dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
