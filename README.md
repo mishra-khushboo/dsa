@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mishra-khushboo/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishra-khushboo/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mishra-khushboo/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/mishra-khushboo/dsa/tree/master/0912-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mishra-khushboo/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
