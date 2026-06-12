@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mishra-khushboo/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mishra-khushboo/dsa/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/mishra-khushboo/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/mishra-khushboo/dsa/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/mishra-khushboo/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishra-khushboo/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishra-khushboo/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishra-khushboo/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mishra-khushboo/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/mishra-khushboo/dsa/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/mishra-khushboo/dsa/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mishra-khushboo/dsa/tree/master/0322-coin-change) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
