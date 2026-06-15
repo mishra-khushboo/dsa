@@ -56,11 +56,18 @@ class Solution:
 
         # return ans
 
-        dp = [-1] * (amount + 1)
-        ans = self.solveMem(coins,amount,dp)
+        # dp = [-1] * (amount + 1)
+        # ans = self.solveMem(coins,amount,dp)
+        # if ans == float('inf'):
+        #     return -1
+        # else:
+        #     return ans
+
+        ans = self.solveTab(coins,amount)
         if ans == float('inf'):
             return -1
-        else:
-            return ans
+
+        return ans
+
         
         
