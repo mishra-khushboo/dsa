@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mishra-khushboo/dsa/tree/master/0912-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mishra-khushboo/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mishra-khushboo/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mishra-khushboo/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mishra-khushboo/dsa/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mishra-khushboo/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mishra-khushboo/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mishra-khushboo/dsa/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
