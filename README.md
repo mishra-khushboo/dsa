@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mishra-khushboo/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/mishra-khushboo/dsa/tree/master/0912-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mishra-khushboo/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/mishra-khushboo/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mishra-khushboo/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mishra-khushboo/dsa/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mishra-khushboo/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
