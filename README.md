@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mishra-khushboo/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mishra-khushboo/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/mishra-khushboo/dsa/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mishra-khushboo/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mishra-khushboo/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2596-check-knight-tour-configuration](https://github.com/mishra-khushboo/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mishra-khushboo/dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mishra-khushboo/dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mishra-khushboo/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/mishra-khushboo/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
 | ------- |
